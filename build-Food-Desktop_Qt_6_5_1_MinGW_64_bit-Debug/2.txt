@@ -1,0 +1,10 @@
+Date: 2
+
+Name: 
+Age: 0
+Height: 0
+Weight: 0
+Callories gain per day: 0
+
+Food: 
+Exercise: 

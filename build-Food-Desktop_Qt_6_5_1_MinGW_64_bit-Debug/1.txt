@@ -1,0 +1,21 @@
+Date: 1
+
+Name: 
+Age: 0
+Height: 0
+Weight: 0
+Callories gain per day: 260
+
+Food: 
+Dish: Ogurec
+Calories: 300
+Carbohydrates: 1
+Fats: 1
+Proteins: 1
+Weight: 100
+
+Exercise: 
+Exercise: Pull_Up
+Burned calories: 40
+Times: 2
+Repeats : 20

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-693bc25d672b378b13f4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "health",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "health::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-health-Debug-212db436543d605dda01.json",
+					"name" : "health",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "health_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-health_autogen-Debug-7ccc4957276205f46b02.json",
+					"name" : "health_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "health_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-health_autogen_timestamp_deps-Debug-7c145bef91051f2bcc54.json",
+					"name" : "health_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/38095/Documents/build-health-Desktop_Qt_6_5_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/38095/Documents/health"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
